@@ -17,11 +17,11 @@ Before you can run the application, you will need to have the following software
 - Qt5 or Qt6 (for PySide6)
 
 ## Installation
-### Bin
+### Method 1 
 ```bash
 bash install.sh
 ```
-### Bin / 2
+### Method 2
 ```bash
 mkdir /tmp/animegirldownloaderqt && cd /tmp/animegirldownloaderqt
 wget https://github.com/KairaBegudiri/AnimeGirlDownloaderQt/releases/download/releases/animegirldownloaderqt
@@ -31,7 +31,7 @@ cd $HOME
 rm -rf /tmp/animegirldownloaderqt
 ```
 
-### From Source
+### Method 3: From Source
 ```bash
 git clone https://github.com/KairaBegudiri/AnimeGirlDownloaderQt
 cd AnimeGirlDownloaderQt

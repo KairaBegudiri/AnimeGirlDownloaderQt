@@ -17,7 +17,7 @@ Before you can run the application, you will need to have the following software
 - Qt5 or Qt6 (for PySide6)
 
 ## Installation
-### Method 1 
+### Method 1 (Recommended)
 ```bash
 bash install.sh
 ```

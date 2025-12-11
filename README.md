@@ -21,6 +21,16 @@ Before you can run the application, you will need to have the following software
 ```bash
 bash install.sh
 ```
+### Bin / 2
+```bash
+mkdir /tmp/animegirldownloaderqt && cd /tmp/animegirldownloaderqt
+wget https://github.com/KairaBegudiri/AnimeGirlDownloaderQt/releases/download/releases/animegirldownloaderqt
+chmod +x animegirldownloaderqt
+sudo mv animegirldownloaderqt /usr/bin/animegirldownloaderqt
+cd $HOME
+rm -rf /tmp/animegirldownloaderqt
+```
+
 ### From Source
 ```bash
 git clone https://github.com/KairaBegudiri/AnimeGirlDownloaderQt

@@ -6,7 +6,8 @@ A QT application that downloads images of catgirl based on https://nekos.moe
 
 | Nekos.moe | Waifu.im |
 | --- | --- |
-| <img width="711" height="840" alt="image" src="https://github.com/user-attachments/assets/5e02d1b2-61f4-4519-9277-1dbbd9b7a53d" /> | <img width="710" height="838" alt="image" src="https://github.com/user-attachments/assets/9df10bbc-99fe-42d2-ac37-1f3c89e8a7f4" /> |
+| <img width="710" height="837" alt="Screenshot_20251212_151017-1" src="https://github.com/user-attachments/assets/8f2f7201-0a4f-4acd-97e3-0f5bd3a9587d" /> | <img width="712" height="834" alt="Screenshot_20251212_151036-1" src="https://github.com/user-attachments/assets/174118d1-bfe5-4e4d-8790-f931282dbc1a" /> |
+
 
 
 ### Prerequisites

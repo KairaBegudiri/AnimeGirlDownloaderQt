@@ -25,18 +25,20 @@ bash install.sh
 ```
 ### Method 2
 ```bash
-mkdir /tmp/animegirldownloaderqt && cd /tmp/animegirldownloaderqt
-wget https://github.com/KairaBegudiri/AnimeGirlDownloaderQt/releases/download/releases/animegirldownloaderqt
-chmod +x animegirldownloaderqt
-sudo mv animegirldownloaderqt /usr/bin/animegirldownloaderqt
+#!/bin/bash
+mkdir /tmp/waifudownloaderqt && cd /tmp/waifudownloaderqt
+
+wget https://github.com/KairaBegudiri/WaifuDownloaderQt/releases/download/v1.5.0/waifudownloaderqt
+chmod +x waifudownloaderqt
+sudo mv waifudownloaderqt /usr/bin/waifudownloaderqt
 cd $HOME
-rm -rf /tmp/animegirldownloaderqt
+rm -rf /tmp/waifudownloaderqt
 ```
 
 ### Method 3: From Source
 ```bash
-git clone https://github.com/KairaBegudiri/AnimeGirlDownloaderQt
-cd AnimeGirlDownloaderQt
+git clone https://github.com/KairaBegudiri/WaifuDownloaderQt
+cd WaifuDownloaderQt
 pip install -r requirements.txt
 python main.py
 ```

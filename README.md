@@ -1,6 +1,6 @@
 # AnimeGirlDownloaderQt
 
-based on [`CatgirlDownloaderQT`](https://github.com/KairaBegudiri/catgirldownloaderqt)
+based on [`CatgirlDownloaderQT`](https://github.com/KairaBegudiri/catgirldownloaderqt), [`NyarchLinux/CatgirlDownloader`](https://github.com/NyarchLinux/CatgirlDownloader) and [`NyarchLinux/CatgirlDownloader`](https://github.com/NyarchLinux/WaifuDownloader)
 
 A QT application that downloads images of catgirl based on https://nekos.moe
 

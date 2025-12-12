@@ -1,12 +1,12 @@
 #!/bin/bash
-mkdir /tmp/animegirldownloaderqt && cd /tmp/animegirldownloaderqt
+mkdir /tmp/waifudownloaderqt && cd /tmp/waifudownloaderqt
 
-wget https://github.com/KairaBegudiri/AnimeGirlDownloaderQt/releases/download/releases/animegirldownloaderqt
-chmod +x animegirldownloaderqt
+wget https://github.com/KairaBegudiri/WaifuDownloaderQt/releases/download/v1.5.0/waifudownloaderqt
+chmod +x waifudownloaderqt
 
-sudo mv animegirldownloaderqt /usr/bin/animegirldownloaderqt
+sudo mv waifudownloaderqt /usr/bin/waifudownloaderqt
 
 cd $HOME
 
 echo "Cleaning"
-rm -rf /tmp/animegirldownloaderqt
+rm -rf /tmp/waifudownloaderqt

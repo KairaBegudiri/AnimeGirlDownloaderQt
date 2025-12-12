@@ -1,8 +1,6 @@
 #!/bin/bash
 set -e
 
-echo "WaifuDownloaderQt kaldırılıyor..."
-
 if [ -f /usr/bin/waifudownloaderqt ]; then
     sudo rm /usr/bin/waifudownloaderqt
 fi

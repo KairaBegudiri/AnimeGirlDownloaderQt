@@ -36,5 +36,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Uninstall
+```bash
+curl -L https://raw.githubusercontent.com/KairaBegudiri/WaifuDownloaderQt/main/uninstall.sh | bash
+```
+
 ## About WaifuDownloaderQt
 based on [`CatgirlDownloaderQT`](https://github.com/KairaBegudiri/catgirldownloaderqt), [`NyarchLinux/CatgirlDownloader`](https://github.com/NyarchLinux/CatgirlDownloader) and [`NyarchLinux/CatgirlDownloader`](https://github.com/NyarchLinux/WaifuDownloader)

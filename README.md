@@ -1,4 +1,4 @@
-# AnimeGirlDownloaderQt
+# WaifuDownloaderQt
 
 based on [`CatgirlDownloaderQT`](https://github.com/KairaBegudiri/catgirldownloaderqt), [`NyarchLinux/CatgirlDownloader`](https://github.com/NyarchLinux/CatgirlDownloader) and [`NyarchLinux/CatgirlDownloader`](https://github.com/NyarchLinux/WaifuDownloader)
 

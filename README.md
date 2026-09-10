@@ -14,7 +14,7 @@
 
 ### Build
 ```bash
-git clone https://github.com/KairaBegudiri/WaifuDownloaderQt
+git clone https://github.com/kayrakrh/WaifuDownloaderQt
 cd WaifuDownloaderQt
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
